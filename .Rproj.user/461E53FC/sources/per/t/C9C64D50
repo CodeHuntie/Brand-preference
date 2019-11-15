@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573480841833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "137858283",
+    "id" : "C9C64D50",
+    "lastKnownWriteTime" : 1573751057,
+    "last_content_update" : 1573751057,
+    "path" : "C:/Users/kenne/OneDrive/Desktop/Bx Ubiqum/C2Task2- Classification - brand preference/Brand Preference/Brand.R",
+    "project_path" : "Brand.R",
+    "properties" : {
+        "cursorPosition" : "11,16",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
